@@ -44,13 +44,14 @@ learn new things, be more productive, and perhaps also help you become better at
 ## HTML
 ```<html></html>```
 
-| Topic  | Resources                                                                                                   | Type / 💷 |
-| :------|:-----------------------------------------------------------------------------------------------------------:|:---------:|
-|        | [Introduction to HTML](https://scrimba.com/g/ghtml)                                                         | 📹  🆓     |
-|        | [Semantic HTML: How to Structure Web Pages](https://bit.ly/37NPLcE)                                         | 📹  🆓     |
-| Syntax | [Code Academy - Learn HTML](https://www.codecademy.com/learn/learn-html)                                    | 👨‍🏫 👩‍🏫  🆓  |
-| Syntax | [MDN - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)| 📚  🆓     |
-| Syntax | [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)      | 📚  🆓     |
+| Topic  | Resources                                                                                                        |  Type / 💷 |
+| :------|:----------------------------------------------------------------------------------------------------------------:|:---------:|
+| Syntax | [Introduction to HTML](https://scrimba.com/g/ghtml)                                                              | 📹  🆓     |
+| Syntax | [Semantic HTML: How to Structure Web Pages](https://bit.ly/37NPLcE)                                              | 📹  🆓     |
+| Syntax | [Code Academy - Learn HTML](https://www.codecademy.com/learn/learn-html)                                         | 👨‍🏫 👩‍🏫  🆓  |
+| Syntax | [MDN - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)     | 📚  🆓     |
+| Syntax | [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)           | 📖  🆓     |
+| Best Practice 🏆 | [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) | 📖  🆓     |
 
 ---
 
