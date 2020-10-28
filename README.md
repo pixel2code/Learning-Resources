@@ -68,6 +68,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [Material Colours](https://www.materialui.co/colors)                                                      | 🌐 🆓     |
 | [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓     |
 | [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓     |
+| [Flexbox Froggy](https://flexboxfroggy.com/)                                                              | 🌐 🆓     |
 
 ## CSS Tools
 
