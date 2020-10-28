@@ -39,14 +39,17 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
+## Fundamentals
+
 ## HTML
 ```<html></html>```
 
-| Resources                                                                                                                     | Type / 💷 |
-| :---------------------------------------------------------------------------------------------------------------------------- |:---------:|
-| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 📹  🆓     |
-| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹  🆓     |
-| [Code Academy - Learn HTML](https://www.codecademy.com/learn/learn-html)                                                      | 📹  🆓     |
+| Topic  | Resources                                                                                                   | Type / 💷 |
+| :------|:-----------------------------------------------------------------------------------------------------------:|:---------:|
+|        | [Introduction to HTML](https://scrimba.com/g/ghtml)                                                         | 📹  🆓     |
+|        | [Semantic HTML: How to Structure Web Pages](https://bit.ly/37NPLcE)                                         | 📹  🆓     |
+| Syntax | [Code Academy - Learn HTML](https://www.codecademy.com/learn/learn-html)                                    | 👨‍🏫 👩‍🏫  🆓  |
+| Syntax | [MDN - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)| 📚  🆓     |
 
 ---
 
