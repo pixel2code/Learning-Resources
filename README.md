@@ -1,6 +1,6 @@
-<img src="http://pixeltocode.co/images/logo.png" width="280px">
+<img src="http://pixeltocode.co/images/logo.png" width="180px">
 
-# Web Development Learning Resources
+## Learning Resources
 
 📱 💻 🖥️
 
@@ -16,6 +16,7 @@ learn new things, be more productive, and perhaps also help you become better at
 * [Text Editors](#Text-Editors)
 * [Youtube and Podcasts](#YouTube-and-Podcasts)
 * [Blogs](#Blogs)
+* [GIT](#GIT)
 * [Misc](#Misc)
 
 ## Roadmap for Developers
@@ -230,6 +231,13 @@ learn new things, be more productive, and perhaps also help you become better at
 |[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🆓 |
 
 ---
+
+##  GIT
+
+| Resources                                               | Description                                    | 💷 |
+|---------------------------------------------------------| ---------------------------------------------- |----|
+| [gitignore](https://www.toptal.com/developers/gitignore)| Create useful .gitignore files for your project| 🆓 |
+
 
 ## Misc
 
