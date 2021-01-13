@@ -1,5 +1,7 @@
 <img src="http://pixeltocode.co/images/logo.png" width="180px">
 
+<img src="https://www.pixeltocode.co/images/mission-statement.png">
+
 ## Learning Resources
 
 📱 💻 🖥️
