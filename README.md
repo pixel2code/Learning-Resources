@@ -10,14 +10,39 @@
 
 ## Table of contents
 * [Internet / Web](#Internet-Web)
-* [CSS](#CSS)
-* [HTML](#HTML)
-* [JavaScript](#Javascript)
 * [Text Editors](#Text-Editors)
+* [GIT](#GIT)
+* [HTML](#HTML)
+* [CSS](#CSS)
+* [JavaScript](#Javascript)
 * [Youtube and Podcasts](#YouTube-and-Podcasts)
 * [Blogs](#Blogs)
-* [GIT](#GIT)
 * [Misc](#Misc)
+
+## Text Editors
+
+| Text Editors      | Atom                     | VS Code                                   | Sublime                                   | Brackets                       | Vim                         |
+|-------------------|--------------------------|-------------------------------------------|-------------------------------------------|--------------------------------|-----------------------------|
+| Price             | 🆓                       | 🆓                                        | 💷                                       | 🆓                             | 🆓                          |
+| Stability         | 👊                       | ☝️                                        | ☝️                                       | 👊                             | ☝️                          |
+| Speed             | 👊                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
+| UI/UX             | ☝️                       | ☝️                                        | 👊                                       | ☝️                             | 👇                          |
+| Custom            | ☝️                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
+| Text Editor Pages | [Atom](https://atom.io/) | [VS Code](https://code.visualstudio.com/) | [Sublime](https://www.sublimetext.com/3) | [Brackets](http://brackets.io/) | [Vim](https://www.vim.org/) |
+
+## Online Text Editors
+
+| Online Text Editors | CodePen                         | jsFiddle                          |
+|---------------------|---------------------------------|-----------------------------------|
+| Price               | 🆓                              | 🆓                                |
+| Stability           | 👊                              | ☝️                                |
+| Speed               | 👊                              | 👊                                |
+| UI/UX               | ☝️                              | 👊                                |
+| Custom              | 👊                              | 👊                                |
+| Text Editor Page    | [CodePen ](https://codepen.io/) | [jsfiddle](https://jsfiddle.net/) |
+
+---
+
 
 ## Roadmap for Developers
 
@@ -175,30 +200,6 @@
 ### THREE.JS
 
 * [CJ Gammon YouTube](https://www.youtube.com/channel/UCFbkyvvsEQn7AmQO6_G5J-A)
-
----
-
-## Text Editors
-
-| Text Editors      | Atom                     | VS Code                                   | Sublime                                   | Brackets                       | Vim                         |
-|-------------------|--------------------------|-------------------------------------------|-------------------------------------------|--------------------------------|-----------------------------|
-| Price             | 🆓                       | 🆓                                        | 💷                                       | 🆓                             | 🆓                          |
-| Stability         | 👊                       | ☝️                                        | ☝️                                       | 👊                             | ☝️                          |
-| Speed             | 👊                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
-| UI/UX             | ☝️                       | ☝️                                        | 👊                                       | ☝️                             | 👇                          |
-| Custom            | ☝️                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
-| Text Editor Pages | [Atom](https://atom.io/) | [VS Code](https://code.visualstudio.com/) | [Sublime](https://www.sublimetext.com/3) | [Brackets](http://brackets.io/) | [Vim](https://www.vim.org/) |
-
-## Online Text Editors
-
-| Online Text Editors | CodePen                         | jsFiddle                          |
-|---------------------|---------------------------------|-----------------------------------|
-| Price               | 🆓                              | 🆓                                |
-| Stability           | 👊                              | ☝️                                |
-| Speed               | 👊                              | 👊                                |
-| UI/UX               | ☝️                              | 👊                                |
-| Custom              | 👊                              | 👊                                |
-| Text Editor Page    | [CodePen ](https://codepen.io/) | [jsfiddle](https://jsfiddle.net/) |
 
 ---
 
